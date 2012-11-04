@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="Buttons">
+    <file>icons/audio-volume-high.png</file>
+    <file>icons/audio-volume-muted.png</file>
+    <file>icons/edit-clear.png</file>
+    <file>icons/help-about.png</file>
+    <file>icons/list-add.png</file>
+    <file>icons/list-remove.png</file>
+    <file>icons/media-playback-pause.png</file>
+    <file>icons/media-playback-start.png</file>
+    <file>icons/media-playback-stop.png</file>
+    <file>icons/media-playlist-repeat.png</file>
+    <file>icons/media-playlist-shuffle.png</file>
+    <file>icons/media-skip-backward.png</file>
+    <file>icons/media-skip-forward.png</file>
+    <file>icons/view-fullscreen.png</file>
+    <file>icons/view-restore.png</file>
+  </qresource>
+</RCC>
