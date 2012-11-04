@@ -1,4 +1,4 @@
 qtVideoplayer
 =============
 
-A learning project with Qt, Phonon and Python!
+A learning project with Qt, <big>Phonon</big> and Python!
