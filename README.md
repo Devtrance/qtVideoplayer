@@ -1,11 +1,11 @@
 qtVideoplayer
 =============
 
-A learning project with Qt, Phonon and Python!
+A learning project with Qt, VLC and Python!
 
 Dependences
 -----------
 * Python
 * PySide
 * Qt
-* Phonon
+* VLC
