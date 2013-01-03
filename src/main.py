@@ -8,7 +8,7 @@ from videoplayer import VideoPlayer
 
 class Core():
     __version__ = '0.0.1'
-    
+
     def __init__(self):
         app = QApplication(sys.argv)
         app.setApplicationName('OpenDev Player')
@@ -19,6 +19,6 @@ class Core():
 
 def main():
     Core()
-    
+
 if __name__ == '__main__':
     main()
